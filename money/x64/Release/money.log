@@ -1,0 +1,29 @@
+﻿  Source.cpp
+C:\Users\ADMIN\OneDrive\Desktop\LT ứng dụng\btTuan6\abnormally detection Banknotes\money\rotate.h(15,66): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ADMIN\OneDrive\Desktop\LT ứng dụng\btTuan6\abnormally detection Banknotes\money\rotate.h(15,52): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ADMIN\OneDrive\Desktop\LT ứng dụng\btTuan6\abnormally detection Banknotes\money\rotate.h(18,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\LT ứng dụng\btTuan6\abnormally detection Banknotes\money\substract.h(44,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\LT ứng dụng\btTuan6\abnormally detection Banknotes\money\gaussianFilter.h(29,43): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ADMIN\OneDrive\Desktop\LT ứng dụng\btTuan6\abnormally detection Banknotes\money\gaussianFilter.h(29,38): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating code
+  1 of 229 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  money.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\LT ứng dụng\btTuan6\abnormally detection Banknotes\money\x64\Release\money.exe
