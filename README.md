@@ -1,6 +1,6 @@
-# Basizc-Banknotes-Detection
+# Basic-Banknotes-Detection
 using OpenCV to detect shtt on an image
 
 substract those 2, 
-remove noise (barely work)
-rotate 'em
+remove noise and then
+rotate them
